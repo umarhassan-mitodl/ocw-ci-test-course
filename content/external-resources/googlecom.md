@@ -1,6 +1,7 @@
 ---
 content_type: external-resource
 external_url: https://google.com
+file: /courses/123-ocw-ci-test-course-fall-2022
 has_external_license_warning: true
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid

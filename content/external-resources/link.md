@@ -2,6 +2,7 @@
 backup_url: ''
 content_type: external-resource
 external_url: https://www.google.com/
+file: /courses/123-ocw-ci-test-course-fall-2022
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved

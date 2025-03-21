@@ -1,6 +1,7 @@
 ---
 content_type: external-resource
 external_url: https://ocw.mit.edu
+file: /courses/123-ocw-ci-test-course-fall-2022
 has_external_license_warning: false
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
