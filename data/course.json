@@ -31,7 +31,7 @@
     "website": "ocw-ci-test-course"
   },
   "course_title": "OCW CI Test Course",
-  "hide_download": false,
+  "hide_download": true,
   "site_short_id": "ocw-ci-test-course",
   "mit_learn_topics": [
     [
