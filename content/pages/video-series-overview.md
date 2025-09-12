@@ -2,7 +2,6 @@
 content_type: page
 description: This section includes a video by Cleve Moler and Gilbert Strang introducing
   the video series.
-file: /courses/123-ocw-ci-test-course-fall-2022
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Video Series Overview

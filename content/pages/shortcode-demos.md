@@ -2,7 +2,6 @@
 content_type: page
 description: 'shortcode demonstrations description '
 draft: false
-file: /courses/123-ocw-ci-test-course-fall-2022
 title: Shortcode Demonstrations
 uid: 7e1d1926-96b4-4f0c-b4b6-2f34ab7562f6
 ---
