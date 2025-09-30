@@ -5,6 +5,8 @@ draft: false
 file: /courses/ocw-ci-test-course/example_jpg.jpg
 file_size: 154826
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

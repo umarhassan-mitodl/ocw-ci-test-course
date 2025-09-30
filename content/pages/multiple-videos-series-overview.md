@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes a video by Cleve Moler and Gilbert Strang introducing
   the video series.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Multiple Videos Series Overview

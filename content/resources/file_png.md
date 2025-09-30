@@ -4,6 +4,8 @@ content_type: resource
 draft: false
 file: /courses/ocw-ci-test-course/image1.png
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -2,6 +2,8 @@
 content_type: page
 description: First test page description
 draft: false
+hide_download: true
+hide_download_original: null
 title: First Test Page
 uid: 38167987-b1af-4544-86a1-909a7cdb4f18
 ---

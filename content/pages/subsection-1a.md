@@ -2,6 +2,8 @@
 content_type: page
 description: subsection 1a description
 draft: false
+hide_download: true
+hide_download_original: null
 title: Subsection 1a
 uid: d1f35266-366e-45f1-bfc2-bcd46eb6c4a4
 ---

@@ -5,6 +5,8 @@ draft: false
 end_time: 50
 file: /courses/ocw-ci-test-course/ocw_test_course_mit8_01f16_l01v01_360p_360p_16_9.mp4
 file_type: video/mp4
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

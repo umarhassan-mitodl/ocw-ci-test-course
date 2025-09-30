@@ -2,6 +2,8 @@
 content_type: page
 description: 'shortcode demonstrations description '
 draft: false
+hide_download: true
+hide_download_original: null
 title: Shortcode Demonstrations
 uid: 7e1d1926-96b4-4f0c-b4b6-2f34ab7562f6
 ---

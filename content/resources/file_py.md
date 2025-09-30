@@ -4,6 +4,8 @@ content_type: resource
 draft: false
 file: /courses/ocw-ci-test-course/file.py
 file_type: text/x-python-script
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

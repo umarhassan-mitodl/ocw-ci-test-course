@@ -2,6 +2,8 @@
 content_type: page
 description: second test page description
 draft: false
+hide_download: true
+hide_download_original: null
 title: Second Test Page
 uid: 35f9045e-0fc6-4957-80ec-f1447945138a
 ---

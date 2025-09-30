@@ -4,6 +4,8 @@ content_type: resource
 draft: false
 file: /courses/ocw-ci-test-course/file_360p_16_9.mp4
 file_type: video/mp4
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
