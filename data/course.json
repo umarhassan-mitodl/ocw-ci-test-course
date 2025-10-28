@@ -31,9 +31,18 @@
     "website": "ocw-ci-test-course"
   },
   "course_title": "OCW CI Test Course",
-  "hide_download": true,
+  "hide_download": false,
   "site_short_id": "ocw-ci-test-course",
-  "course_description": "This is a test course for use in CI pipelines. This course can be found:\n\n- On Github at \u00a0[https://github.mit.edu/ocw-content-rc/ocw-ci-test-course](https://github.mit.edu/ocw-content-rc/ocw-ci-test-course)\n- On OCW Studio at [https://ocw-studio-rc.odl.mit.edu/sites/ocw-ci-test-course](https://ocw-studio-rc.odl.mit.edu/sites/ocw-ci-test-course)\n\nThe content of this course is additionally checked into the `ocw-hugo-themes` repository.\n\n\u00a0Recommended usage by OL Engineers:\n\n- Clone the github repository to your local.\n- When developing on `ocw-hugo-themes`, make edits in Studio as needed for the tests you want to write. Pull to local, and copy the files to `ocw-hugo-themes/test-sites/ocw-ci-test-course`.",
+  "mit_learn_topics": [
+    [
+      "Art, Design & Architecture"
+    ],
+    [
+      "Business & Management",
+      "Business Analytics"
+    ]
+  ],
+  "course_description": "This is a test course for use in CI pipelines. This course can be found:\n\n- On Github at \u00a0{{% resource_link \"7f9f355e-2dcd-42d6-81a5-846acf87826f\" \"https://github.mit.edu/ocw-content-rc/ocw-ci-test-course\" %}}\n- On OCW Studio at {{% resource_link \"a18fc987-0c6a-4475-8454-62536f149420\" \"https://ocw-studio-rc.odl.mit.edu/sites/ocw-ci-test-course\" %}}\n\nThe content of this course is additionally checked into the `ocw-hugo-themes` repository.\n\n\u00a0Recommended usage by OL Engineers:\n\n- Clone the github repository to your local.\n- When developing on `ocw-hugo-themes`, make edits in Studio as needed for the tests you want to write. Pull to local, and copy the files to `ocw-hugo-themes/test-sites/ocw-ci-test-course`.",
   "department_numbers": [
     "8",
     "6",
@@ -41,7 +50,10 @@
   ],
   "extra_course_numbers": "456",
   "primary_course_number": "123",
-  "hide_download_original": true,
+  "course_image_thumbnail": {
+    "content": "5388b0c3-c599-4c42-8a3c-f89beed7c154",
+    "website": "ocw-ci-test-course"
+  },
   "learning_resource_types": [
     "Activity Assignments",
     "Exams with Solutions"
