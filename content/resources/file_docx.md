@@ -2,10 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ocw-ci-test-course/file.docx
+file: /courses/courses/ocw-ci-test-course/file.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

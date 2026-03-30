@@ -2,10 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ocw-ci-test-course/ocw_test_course_mit8_01f16_l26v02_360p_360p_16_9.mp4
+file: /courses/courses/ocw-ci-test-course/ocw_test_course_mit8_01f16_l26v02_360p_360p_16_9.mp4
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

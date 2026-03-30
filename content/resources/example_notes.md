@@ -2,10 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ocw-ci-test-course/example_pdf.pdf
+file: /courses/courses/ocw-ci-test-course/example_pdf.pdf
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

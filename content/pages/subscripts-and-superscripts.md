@@ -18,9 +18,9 @@ Example, Interior Bold: Lorem ipsum dolor sit<sub>abc **123**</sub> amet consect
 
 Example, Interior italic: Lorem ipsum dolor sit<sub>abc *123*</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc *123*</sup> amet consectetur.
 
-Example, Links in scripts: Lorem ipsum dolor sit<sub>{{% resource_link "db94b5b8-d40c-4674-94f0-053715722132" "abc 123" %}}</sub> amet consectetur. Lorem ipsum dolor sit<sup>{{% resource_link "db94b5b8-d40c-4674-94f0-053715722132" "abc 123" %}}</sup> amet consectetur.
+Example, Links in scripts: Lorem ipsum dolor sit<sub>{{% resource_link "baa65e5e-4510-4e32-82b6-08f2c8d5d203" "abc 123" %}}</sub> amet consectetur. Lorem ipsum dolor sit<sup>{{% resource_link "baa65e5e-4510-4e32-82b6-08f2c8d5d203" "abc 123" %}}</sup> amet consectetur.
 
-Example, Scripts in Links: Lorem ipsum dolor {{% resource_link "db94b5b8-d40c-4674-94f0-053715722132" "sit<sub>abc 123</sub> amet" %}} consectetur. Lorem ipsum dolor {{% resource_link "db94b5b8-d40c-4674-94f0-053715722132" "sit<sup>abc 123</sup> amet" %}} amet consectetur.
+Example, Scripts in Links: Lorem ipsum dolor {{% resource_link "baa65e5e-4510-4e32-82b6-08f2c8d5d203" "sit<sub>abc 123</sub> amet" %}} consectetur. Lorem ipsum dolor {{% resource_link "baa65e5e-4510-4e32-82b6-08f2c8d5d203" "sit<sup>abc 123</sup> amet" %}} amet consectetur.
 
 Example, Resource Links in scripts: Lorem ipsum dolor sit<sub>{{% resource_link "7b3ae5c4-3b27-4806-b0c5-f012f16fa245" "abc 123" %}}</sub> amet consectetur. Lorem ipsum dolor sit<sup>{{% resource_link "7b3ae5c4-3b27-4806-b0c5-f012f16fa245" "abc 123" %}}</sup> amet consectetur.
 
@@ -37,7 +37,7 @@ Header Three
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 lorem<sub>abc 123</sub> ipsum
 {{< tdclose >}}{{< tdopen >}}
-lorem{{% resource_link "db94b5b8-d40c-4674-94f0-053715722132" "<sup>†</sup>" %}} ipsum
+lorem{{% resource_link "baa65e5e-4510-4e32-82b6-08f2c8d5d203" "<sup>†</sup>" %}} ipsum
 {{< tdclose >}}{{< tdopen >}}
 lorem{{% resource_link "7b3ae5c4-3b27-4806-b0c5-f012f16fa245" "<sup>‡</sup>" %}} ipsum
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
