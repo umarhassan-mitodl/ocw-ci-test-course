@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: external-resource
 external_url: https://ocw.mit.edu
 has_external_license_warning: false
